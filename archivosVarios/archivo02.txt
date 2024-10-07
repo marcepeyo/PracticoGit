@@ -1,0 +1,1 @@
+Este es el archivo02 para el practico de Git
